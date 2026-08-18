@@ -1,0 +1,20 @@
+# ---- 密钥与配置 ----
+# .env 包含真实密钥，严禁提交（参考 .env.example 建模板）
+.env
+
+# ---- Python 缓存 ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- 运行日志 ----
+*.log
+
+# ---- OCR 断点续跑缓存（*.ocr.md / _ocr_result.md）----
+*.ocr.md
+_ocr_result.md
+*.ocr.md.tmp
+
+# ---- 系统文件 ----
+.DS_Store
+Thumbs.db

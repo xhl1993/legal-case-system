@@ -4,6 +4,10 @@
 
 > 纯 Python 标准库实现，**零第三方依赖**，支持 Windows / macOS / Linux。
 
+## 运行预览
+
+![运行预览](docs/preview.png)
+
 ## 功能特性
 
 - **三大处理流程**
